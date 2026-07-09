@@ -1,5 +1,5 @@
 # Supply Chain Risk Analysis — Inventory & Supplier Reliability
-
+![Dashboard Screenshot](Dashboard.png)
 ## Business Question
 Which product categories and suppliers are contributing most to stockout risk and delivery delays — and does the company's "Preferred" supplier designation actually reflect real-world delivery performance?
 
