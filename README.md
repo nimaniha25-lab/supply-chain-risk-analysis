@@ -1,4 +1,5 @@
 # Supply Chain Risk Analysis — Inventory & Supplier Reliability
+> This is the first project in a supply chain analytics series. See the companion SQL-based analysis: [supply-chain-sql-analysis](https://github.com/nimaniha25-lab/supply-chain-sql-analysis)
 ![Dashboard Screenshot](Dashboard.png)
 ## Business Question
 Which product categories and suppliers are contributing most to stockout risk and delivery delays — and does the company's "Preferred" supplier designation actually reflect real-world delivery performance?
